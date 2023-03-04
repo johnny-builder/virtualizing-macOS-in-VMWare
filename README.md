@@ -59,8 +59,9 @@ At `New CD/DVD (SATA)` attach the macOS ISO file you got,
 `Close`, `Finish`.
 
 Now, make sure to close VMWare, since the .vmx file will be in use!
+Unless you're using Workstation Pro
 
-### Step 3:
+### Step 3 (For VMWare player users!):
 Now we need to update the .vmx file, open it up on notepad or any other text editor and add this at the end of the file:
 ```
 smbios.reflectHost = "TRUE"
