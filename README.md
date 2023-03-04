@@ -3,21 +3,21 @@
 
 ## Ingredients:
 ### A copy of VMWare Workstation Player or Pro, both of them work.
-*Player:* https://www.vmware.com/products/workstation-player.html
+*Player:* [![VMWare - Player](https://img.shields.io/badge/VMWare-Player-yellow)](https://www.vmware.com/products/workstation-player.html)
 
-*Pro:* https://www.vmware.com/products/workstation-pro.html
+*Pro:* [![VMWare - Pro](https://img.shields.io/badge/VMWare-Pro-blue)](https://www.vmware.com/products/workstation-pro.html)
 
 ### A macOS Offline Installer ISO
 
 There are two ways on getting yourself one of these, the first one requires having a mac
 
 #### Using a mac
-You can read it here: https://dortania.github.io/OpenCore-Install-Guide/installer-guide/mac-install.html
+You can read it here: [![Dortania's - Open Core Install Guide](https://img.shields.io/badge/Dortania's-Open_Core_Install_Guide-blue)](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/mac-install.html)
 
 Of course, don't forget to convert the DMG to a ISO file.
 
 #### Using the information super highway
-So, I was diggin' through the internet archive and I found this link: https://archive.org/download/macos_iso
+So, I was diggin' through the internet archive and I found this link: [![Internet Archive - macOS ISO ](https://img.shields.io/badge/Internet_Archive-macOS_ISO_-blue?logo=internetarchive)](https://archive.org/download/macos_iso)
 
 I didn't test it though, so be careful!
 
@@ -30,7 +30,7 @@ I personally recommend using a *SECONDARY* hard drive.
 ### VMWare Unlocker
 It's not necessary if you use VMWare Workstation Pro.
 
-You can get it here: https://github.com/paolo-projects/auto-unlocker/releases
+You can get it here: [![paolo-projects - auto-unlocker](https://img.shields.io/badge/paolo--projects-auto--unlocker-blue?logo=github)](https://github.com/paolo-projects/auto-unlocker/releases)
 
 ## finally doing something that is not downloading a whole lot of files!!!! uwuw wow
 
@@ -72,4 +72,4 @@ Save it and _pray_ for the best.
 Install VMWare Tools on the guest.
 
 ### Step 5 (Optional, but really recommended):
-Use some scripts you can find at `github.com/sickcodes/osx-optimizer`
+Use some scripts you can find at [![sickcodes - osx-optimizer](https://img.shields.io/badge/sickcodes-osx--optimizer-blue?logo=github)](https://github.com/sickcodes/osx-optimizer)
