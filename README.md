@@ -73,3 +73,6 @@ Install VMWare Tools on the guest.
 
 ### Step 5 (Optional, but really recommended):
 Use some scripts you can find at [![sickcodes - osx-optimizer](https://img.shields.io/badge/sickcodes-osx--optimizer-blue?logo=github)](https://github.com/sickcodes/osx-optimizer)
+
+### Step 6:
+Star this repo! If you liked it or it was useful for you, starring will really help me out!
