@@ -70,7 +70,27 @@ smc.version = "0"
 ```
 The `hw.model` value can be changed to spoof the model, but the one I used is at the top
 
-Save it and _pray_ for the best.
+Save it, _pray_ for the best, and fire it up.
+
+### Step 3.5:
+
+Now, just so you don't screw up, give it some time, select the right language and hit `Disk Utility`
+
+Click on `View`, `Show all volumes`
+
+Now, select `VMWare Virtual SATA Hard Drive` and hit `Erase`
+
+Now, give it a nice name and format it as APFS or Mac OS Extended (Journaled)
+
+Make sure the scheme is GUID Partition Map, and hit `Erase`
+
+Now, you can close Disk Utility and continue to the installer, ~Dis~agree to the EULA
+
+Select the drive you erased 2 lines ago and hit `Continue`
+
+Now, just as a reminder, depending on your hardware this may take more than a few hours, so don't be alarmed if it takes too long.
+
+After that, you just need to go through the first use process, by the way, if the profile pictures are invisible, just click on the empty space, they will show up.
 
 ### Step 4 (Optional but recommended):
 Install VMWare Tools on the guest.
