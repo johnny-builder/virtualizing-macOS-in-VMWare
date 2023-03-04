@@ -4,6 +4,7 @@
 ## Ingredients:
 ### A copy of VMWare Workstation Player or Pro, both of them work.
 *Player:* https://www.vmware.com/products/workstation-player.html
+
 *Pro:* https://www.vmware.com/products/workstation-pro.html
 
 ### A macOS Offline Installer ISO
@@ -12,10 +13,12 @@ There are two ways on getting yourself one of these, the first one requires havi
 
 #### Using a mac
 You can read it here: https://dortania.github.io/OpenCore-Install-Guide/installer-guide/mac-install.html
+
 Of course, don't forget to convert the DMG to a ISO file.
 
 #### Using the information super highway
 So, I was diggin' through the internet archive and I found this link: https://archive.org/download/macos_iso
+
 I didn't test it though, so be careful!
 
 ### At least 12 GB of RAM
@@ -26,6 +29,7 @@ I personally recommend using a *SECONDARY* hard drive.
 
 ### VMWare Unlocker
 It's not necessary if you use VMWare Workstation Pro.
+
 You can get it here: https://github.com/paolo-projects/auto-unlocker/releases
 
 ## finally doing something that is not downloading a whole lot of files!!!! uwuw wow
