@@ -72,7 +72,7 @@ The `hw.model` value can be changed to spoof the model, but the one I used is at
 
 Save it, _pray_ for the best, and fire it up.
 
-### Step 3.5:
+### Step 3.1:
 
 Now, just so you don't screw up, give it some time, select the right language and hit `Disk Utility`
 
