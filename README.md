@@ -19,7 +19,7 @@ Of course, don't forget to convert the DMG to a ISO file.
 #### Using the information super highway
 So, I was diggin' through the internet archive and I found this link: [![Internet Archive - macOS ISO ](https://img.shields.io/badge/Internet_Archive-macOS_ISO_-blue?logo=internetarchive)](https://archive.org/download/macos_iso)
 
-I didn't test it though, so be careful!
+I didn't test it though, except for the High Sierra one, so be careful!
 
 ### At least 12 GB of RAM
 If you _really_ don't want to suffer with the slowness, make sure the VM has at least 6GB of RAM
