@@ -38,7 +38,23 @@ You can get it here: https://github.com/paolo-projects/auto-unlocker/releases
 Make sure VMWare is closed, open up the Unlocker, if the directory is incorrect just fix it, hit `Patch` and give it some time.
 
 ### Step 2:
-After patching VMWare Player, open it up, hit `Create a New Virtual Machine`, `I will install the operating system later.`, `Apple Mac OS X`, select the version you got, give it a nice name, give it 80 GB of storage and make sure to hit `Store virtual disk as a single file`, `Customize hardware`, give it some ~[[GOGOL KROM FOOD]]~ RAM, give it 3 Processors, at New CD/DVD (SATA) add the macOS iso you got, `Close`, `Finish`.
+After patching VMWare Player, open it up, hit `Create a New Virtual Machine`
+
+`I will install the operating system later.`
+
+`Apple Mac OS X`, select the version you got, give it a nice name,
+
+give it 80 GB of storage and make sure to hit `Store virtual disk as a single file`
+
+`Customize hardware`
+
+give it some ~[[GOGOL KROM FOOD]]~ RAM
+
+give it 3 Processors
+
+at New CD/DVD (SATA) add the macOS iso you got,
+
+`Close`, `Finish`.
 
 ### Step 3:
 Now we need to update the .vmx file, open it up on notepad or any other text editor and add this at the end of the file:
@@ -48,6 +64,8 @@ hw.model = "MacBookPro14,3"
 board-id = "Mac-551B86E5744E2388"
 smc.version = "0"
 ```
+The `hw.model` value can be changed to spoof the model, but the one I used is at the top
+
 Save it and _pray_ for the best.
 
 ### Step 4 (Optional but recommended):
