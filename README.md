@@ -2,7 +2,7 @@
 ### A simple tutorial on how to install macOS in VMWare
 
 ## Ingredients:
-###A copy of VMWare Workstation Player or Pro, both of them work.
+### A copy of VMWare Workstation Player or Pro, both of them work.
 *Player:* https://www.vmware.com/products/workstation-player.html
 *Pro:* https://www.vmware.com/products/workstation-pro.html
 
