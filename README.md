@@ -42,17 +42,19 @@ After patching VMWare Player, open it up, hit `Create a New Virtual Machine`
 
 `I will install the operating system later.`
 
-`Apple Mac OS X`, select the version you got, give it a nice name,
+`Apple Mac OS X`, select the version you got
+
+Give it a nice name,
 
 Give it 80 GB of storage and make sure to hit `Store virtual disk as a single file`
 
 `Customize hardware`
 
-Give it some ~[[GOGOL KROM FOOD]]~ RAM
+Give it some ~[[GOGOL KROMER FOOD]]~ RAM
 
 Give it 3 Processors
 
-At New CD/DVD (SATA) add the macOS iso you got,
+At `New CD/DVD (SATA)` attach the macOS ISO file you got,
 
 `Close`, `Finish`.
 
