@@ -28,17 +28,17 @@ If you _really_ don't want to suffer with the slowness, make sure the VM has at 
 I personally recommend using a *SECONDARY* hard drive.
 
 ### VMWare Unlocker
-It's not necessary if you use VMWare Workstation Pro.
+It's necessary since (probably because of piracy) they disabled macOS on VMWare.
 
 You can get it here: [![paolo-projects - auto-unlocker](https://img.shields.io/badge/paolo--projects-auto--unlocker-blue?logo=github)](https://github.com/paolo-projects/auto-unlocker/releases)
 
 ## finally doing something that is not downloading a whole lot of files!!!! uwuw wow
 
-### Step 1 (For VMWare player users!):
+### Step 1:
 Make sure VMWare is closed, open up the Unlocker, if the directory is incorrect just fix it, hit `Patch` and give it some time.
 
 ### Step 2:
-After patching VMWare Player, open it up, hit `Create a New Virtual Machine`
+After patching VMWare, open it up, hit `Create a New Virtual Machine`
 
 `I will install the operating system later.`
 
@@ -59,9 +59,8 @@ At `New CD/DVD (SATA)` attach the macOS ISO file you got,
 `Close`, `Finish`.
 
 Now, make sure to close VMWare, since the .vmx file will be in use!
-Unless you're using Workstation Pro
 
-### Step 3 (For VMWare player users!):
+### Step 3:
 Now we need to update the .vmx file, open it up on notepad or any other text editor and add this at the end of the file:
 ```
 smbios.reflectHost = "TRUE"
