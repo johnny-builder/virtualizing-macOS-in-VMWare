@@ -52,7 +52,7 @@ Give it 80 GB of storage and make sure to hit `Store virtual disk as a single fi
 
 Give it some ~[[GOGOL KROMER FOOD]]~ RAM
 
-Give it 3 Processors
+Give it 2 Processors (3 Processors is always better, but of course, depends on your machine)
 
 At `New CD/DVD (SATA)` attach the macOS ISO file you got,
 
